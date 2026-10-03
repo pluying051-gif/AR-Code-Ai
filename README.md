@@ -1,2 +1,0 @@
-# AR-Code-Ai
-Ai
