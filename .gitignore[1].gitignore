@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+AR_Code_Ai_*.txt

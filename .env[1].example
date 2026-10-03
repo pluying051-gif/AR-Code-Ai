@@ -1,0 +1,7 @@
+# انسخ هذا الملف باسم .env وضع مفاتيحك (لا ترفع .env على GitHub أبداً)
+GEMINI_API_KEY=ضع_مفتاح_جيميناي_هنا
+TELEGRAM_BOT_TOKEN=
+# اختياري: ايديات مسموح لها تستخدم البوت، مفصولة بفاصلة
+TELEGRAM_ALLOWED_IDS=
+# اختياري: تغيير الموديل
+AR_MODEL=gemini-2.5-flash
